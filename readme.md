@@ -1,21 +1,26 @@
-# API Rest para validação de dados de usuário
+# Rest API for validating user data
 
-## 📖  Descrição
+## 📖  Description
 
-Esse é o projeto de uma API Rest para cadastro de usuários. Com foco em testes e manipulação de dados, utilizando crud manual.
+Rest API project for user registration. Focused on testing and data manipulation, using manual crud
 
 <br/>
 
-## 🛠️ Funcionalidades
+## 📸 Screenshot
 
-- Cadastrar usuário no sistema
-- Ler dados do usuário
-- Atualizar os dados
-- Filtrar usuário por id
-- Excluir dados de usuários
+![screenshot](https://github.com/GuiOliver27/express-api/assets/37091987/bbdaa70e-6b3f-467c-a29b-fdf52469208b)
+
+
+## 🛠️ Features
+
+- Register user in the system
+- Read user data
+- Update datas
+- Filter user by id
+- Delete user datas
 <br/>
 
-## 📡 Tecnologias utilizadas 
+## 📡 Technologies used 
 <div align="center"> 
 <img align="left" alt="NodeJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Express" src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
@@ -23,28 +28,34 @@ Esse é o projeto de uma API Rest para cadastro de usuários. Com foco em testes
 </div>
 <br/><br/>
 
-## Rodando localmente
+## Running Locally
 
-Clone o projeto
+Clone the project
 
 ```bash
   git clone https://link-para-o-projeto
 ```
 
-Entre no diretório do projeto
+Enter the project directory
 
 ```bash
   cd my-project
 ```
 
-Instale as dependências
+Install the dependencies
 
 ```bash
   npm install
 ```
 
-Inicie o servidor
+Start the server
 
 ```bash
   npm start
+```
+
+Node Version
+
+```bash
+  v16.17.1
 ```
