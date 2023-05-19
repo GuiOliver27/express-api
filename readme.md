@@ -33,13 +33,14 @@ Rest API project for user registration. Focused on testing and data manipulation
 Clone the project
 
 ```bash
-  git clone https://link-para-o-projeto
+  git init
+  git clone git@github.com:GuiOliver27/express-api.git
 ```
 
 Enter the project directory
 
 ```bash
-  cd my-project
+  cd express-api
 ```
 
 Install the dependencies
